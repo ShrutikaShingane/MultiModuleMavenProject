@@ -24,7 +24,6 @@ A Java project developed using Eclipse and Maven.
 Hello from App Module!
 Hello from Utils Module!
 
-
 ## Project Update
 This project demonstrates communication between two Maven modules.
 The app module uses the Helper class from the utils module.
